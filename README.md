@@ -1,6 +1,6 @@
-# Emotion Detector – AI-Based Web Application
+# Final Project
 
-Final project for the IBM course *Developing AI Applications with Python and Flask*.
+**Emotion Detector – AI-Based Web Application**, the final project for the IBM course *Developing AI Applications with Python and Flask*.
 
 The application uses the Watson NLP **EmotionPredict** service to score a piece of text for
 anger, disgust, fear, joy and sadness, and reports the dominant emotion through a Flask web interface.
